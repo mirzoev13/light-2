@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Consolas;
+    font-weight: 500;
+    src: url(consolas.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: FatGrot;
+    font-weight: 400;
+    src: url(FatGrot.ttf) format("truetype");
+}
